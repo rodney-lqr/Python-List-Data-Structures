@@ -3,10 +3,10 @@ planetList = ["Mercury", "Venus", "Earth", "Mars", "Jupiter", "Saturn", "Uranus"
 print()
 print(planetList)
 print()
-print("The 3rd index is: ", planetList[3])
+print("The 3rd index is: ", planetList[2])
 print()
-planetList[7] = "Pluto"
-planetList.remove(planetList[4])
+planetList[6] = "Pluto"
+planetList.remove(planetList[3])
 
 for x in planetList:
     print(x)

@@ -3,10 +3,10 @@ flowerNames = ["gumamela", "lily", "sunflower", "daisy", "tulip", "orchid", "car
 print()
 print(flowerNames)
 print()
-print("The 5th index is: ", flowerNames[5])
+print("The 5th index is: ", flowerNames[4])
 print()
-flowerNames[8] = "rose"
-flowerNames.remove(flowerNames[2])
+flowerNames[7] = "rose"
+flowerNames.remove(flowerNames[1])
 print()
 for x in flowerNames:
     print(x)

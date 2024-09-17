@@ -9,7 +9,6 @@ del languageList[15]
 
 for x in languageList:
     print(x)
-
 print()
 print(languageList[6:11])
 print()

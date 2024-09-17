@@ -11,11 +11,11 @@ vegetableList = [
 print()
 print(vegetableList)
 print()
-print("The 5th index is: ", vegetableList[5])
+print("The 5th index is: ", vegetableList[4])
 print()
-vegetableList[3] = "Spinach"
+vegetableList[2] = "Spinach"
 print()
-vegetableList.remove(vegetableList[6])
+vegetableList.remove(vegetableList[5])
 print(vegetableList)
 print()
 print(vegetableList[-1])

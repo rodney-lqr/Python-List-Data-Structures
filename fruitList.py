@@ -16,11 +16,11 @@ fruitList = [
 print()
 print(fruitList)
 print()
-print(fruitList[9])
+print(fruitList[8])
 print()
-fruitList[2] = "Mango"
+fruitList[1] = "Mango"
 print()  
-fruitList.remove(fruitList[10])
+fruitList.remove(fruitList[9])
 print()
 print(fruitList[4:7])
 print()

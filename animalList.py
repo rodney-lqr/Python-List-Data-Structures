@@ -1,6 +1,6 @@
 animalList = [
     'Koala',
-    'Elephant',
+    'Panther',
     'Crocodile',
     'Wolf',
     'Lion',
@@ -14,10 +14,10 @@ animalList = [
 print()
 print(animalList)
 print()
-print("The third index is: ", animalList[3])
+print("The third index is: ", animalList[2])
 print()
-animalList[6] = "Elephant"
-animalList.remove(animalList[8])
+animalList[5] = "Elephant"
+animalList.remove(animalList[7])
 print()
 print(animalList)
 print()

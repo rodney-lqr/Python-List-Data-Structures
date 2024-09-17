@@ -13,11 +13,11 @@ print("The 15th index is: ", allStudents[-2])
 print()
 print()
 #Modified the item in index number 11
-print("The updated student number 10 is: ", allStudents[11])
+print("The updated student: ", allStudents[10])
 print()
 print()
 #Deleting the 9th index
-allStudents.remove(allStudents[9])
+allStudents.remove(allStudents[8])
 print()
 print()
 print(allStudents)

@@ -9,10 +9,10 @@ authors = ["William Shakespeare", "Jane Austen",
 print()
 print(authors)
 print()
-print("The 6th index is: ", authors[6])
+print("The 6th index is: ", authors[5])
 print()
-authors[4] = "Mark Twain"
-authors.remove(authors[10])
+authors[3] = "Mark Twain"
+authors.remove(authors[9])
 for x in authors:
     print(x)
 

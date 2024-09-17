@@ -12,10 +12,10 @@ programmingLanguages = [
 print()
 print(programmingLanguages)
 print()
-print("The 11th index is: ", programmingLanguages[11])
+print("The 11th index is: ", programmingLanguages[10])
 print()
-programmingLanguages[9] = "Python"
-programmingLanguages.remove(programmingLanguages[13])
+programmingLanguages[8] = "Python"
+programmingLanguages.remove(programmingLanguages[12])
 print()
 for x in programmingLanguages:
     print(x)

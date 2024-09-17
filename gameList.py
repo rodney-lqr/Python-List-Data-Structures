@@ -9,11 +9,11 @@ gameList = [
 print()
 print(gameList)
 print()
-print("The 7th index is: ", gameList[7])
+print("The 7th index is: ", gameList[6])
 print()
-gameList[4] = "Minecraft"
+gameList[3] = "Minecraft"
 print()
-gameList.remove(gameList[9])
+gameList.remove(gameList[8])
 
 for x in gameList:
     print(x)

@@ -28,11 +28,11 @@ allMovies = movieListOne + movieListTwo
 print()
 print(allMovies)
 print()
-print("The 12th index is: ", allMovies[12])
+print("The 12th index is: ", allMovies[11])
 print()
-allMovies[15] = "Inception"
+allMovies[14] = "Inception"
 print()
-allMovies.remove(allMovies[18])
+allMovies.remove(allMovies[17])
 print(allMovies)
 print()
 print(allMovies[8:13])
