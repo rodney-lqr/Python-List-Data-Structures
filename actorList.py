@@ -14,7 +14,7 @@ famousActors = [
 print()
 print(famousActors)
 print()
-print(famousActors[6])
+print("The 7th index is: ", famousActors[6])
 print()
 famousActors[2] = "Leonardo Di Caprio"
 del famousActors[7]
@@ -22,6 +22,5 @@ for x in famousActors:
     print(x)
 
 print()
-print(famousActors[-1])
+print("The last index is: ", famousActors[-1])
 print()
- 
